@@ -1,0 +1,13 @@
+footer {
+    background-color: lightblue;
+  }
+  
+  h1 {
+    color: navy;
+    margin-left: 20px;
+  }
+
+  .right-aligned {
+    align-self: flex-end;
+    padding: 10px; 
+   }
